@@ -11,7 +11,7 @@ A few resources to get you started if this is your first Flutter project:
 dev_dependencies:
   flip_card: ^0.4.4
 
-central_card:  
+central_card:
     import 'package:flip_card/flip_card.dart';
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
